@@ -9,11 +9,22 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var red: UIView!
+    @IBOutlet weak var elou: UIView!
+    @IBOutlet weak var grin: UIView!
+    @IBOutlet weak var bottom: UIButton!
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       // red.layer.cornerRadius =
     }
 
-
+    @IBAction func bottomActive() {
+        
+        
+    }
+    
 }
 
