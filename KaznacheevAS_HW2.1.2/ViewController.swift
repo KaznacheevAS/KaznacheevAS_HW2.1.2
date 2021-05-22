@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-       // red.layer.cornerRadius =
+      
     }
 
     @IBAction func bottomActive() {
