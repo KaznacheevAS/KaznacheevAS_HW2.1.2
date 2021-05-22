@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var red: UIView!
     @IBOutlet weak var elou: UIView!
     @IBOutlet weak var grin: UIView!
+    
     @IBOutlet weak var bottom: UIButton!
     
     
